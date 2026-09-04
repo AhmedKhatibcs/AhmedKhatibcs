@@ -1,6 +1,7 @@
 # AhmedKhatib
 
  Goals this month:
+ ![Globe Image](src/globe.jpg)
  <p> Will link repos when I'm done/or a status report</p>
 
 * Finish a website
