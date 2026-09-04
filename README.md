@@ -1,6 +1,7 @@
 # AhmedKhatib
 
  Goals this month:
+ <p> Will link repos when I'm done/or a status report</p>
 
 * Finish a website
 
