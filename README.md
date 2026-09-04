@@ -20,3 +20,14 @@
  
 * Get into React (if possible)
 -Basic Website like a Linktree
+
+
+Projects Checklist- Going to try to do:
+End goal: Make a word game by this month
+Task Manager - Easy 
+- Challenge (learn frontend)
+- Use Figma (to learn how to make screens)
+- Did this before in Python, C++
+  Other Variants:
+  Maybe Kanban Board- Medium
+- What I learned:
