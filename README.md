@@ -10,7 +10,12 @@
 - Learning:
 -A Wikipedia Clone
  -Learning: SQL, Web ui,
-  
+
+Getting into web dev:
+First project: random number guessing game
+Learning: DOM, random generation (prob with time), classes-div
+
+
 -Work on Fraus (word game)
 -Using data structures
 
@@ -20,6 +25,7 @@
  
 * Get into React (if possible)
 -Basic Website like a Linktree
+
 
 
 Projects Checklist- Going to try to do:
