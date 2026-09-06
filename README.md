@@ -3,7 +3,6 @@
  Goals this month:
  ![Globe Image](src/globe.png)
  <p> Will link repos when I'm done/or a status report</p>
-
 * Finish a website
 * 
 -Wordle Clone
@@ -14,7 +13,7 @@
 Getting into web dev:
 First project: random number guessing game
 Learning: DOM, random generation (prob with time), classes-div
-
+*Forgot to do branches (next project going to work with more of version control)
 
 -Work on Fraus (word game)
 -Using data structures
